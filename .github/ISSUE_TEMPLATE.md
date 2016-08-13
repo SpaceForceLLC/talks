@@ -1,5 +1,3 @@
-# TITLE OF YOUR AWESOME TALK
-
 ## Summary
 
 Describe your talk, share your slides, GitHub repo or other relevant links.
