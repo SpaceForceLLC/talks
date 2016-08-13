@@ -1,3 +1,8 @@
+[slack-link]: https://tokyojs.herokuapp.com
+[slack-badge]: https://tokyojs.herokuapp.com/badge.svg
+
+[![Slack][slack-badge]][slack-link]
+
 # How to participate in TokyoJS?
 
 Create a [new issue](https://github.com/tokyojs/talks/issues/new) with your proposal to talk at TokyoJS.
