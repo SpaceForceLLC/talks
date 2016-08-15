@@ -7,6 +7,7 @@
 
 Create a [new issue](https://github.com/tokyojs/talks/issues/new) with your proposal to talk at TokyoJS.
 
+* See [proposed](https://github.com/tokyojs/talks/issues?utf8=%E2%9C%93&q=label%3Aproposed%20-label%3Ascheduled%20-label%3Acompleted)
 * See [scheduled](https://github.com/tokyojs/talks/issues?utf8=%E2%9C%93&q=label%3Ascheduled%20-label%3Acompleted) talks.
 * See [completed](https://github.com/tokyojs/talks/issues?utf8=%E2%9C%93&q=label%3Acompleted%20) talks.
 
